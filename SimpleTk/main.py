@@ -9,7 +9,7 @@ from test.test_tracemalloc import frame
 
     
 finestra = tk.Tk()
-finestra.title('finestra principale')
+finestra.title(' Mostra la finestra Principalefinestra principale')
 
 quadro1 = tk.Frame(finestra)
 quadro1.pack()
